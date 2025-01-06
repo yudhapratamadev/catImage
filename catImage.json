@@ -12,11 +12,55 @@
   {
     "id": 3,
     "title": "Beautiful Landscape",
-    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage1.webp"
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage3.webp"
   },
   {
     "id": 4,
     "title": "Ocean View",
-    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage2.webp"
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage4.webp"
+  }
+  ,
+  {
+    "id": 5,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage5.webp"
+  },
+  {
+    "id": 6,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage6.webp"
+  }
+  ,
+  {
+    "id": 7,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage7.webp"
+  },
+  {
+    "id": 8,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage8.webp"
+  }
+  ,
+  {
+    "id": 9,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage9.webp"
+  },
+  {
+    "id": 10,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage10.webp"
+  }
+  ,
+  {
+    "id": 11,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage11.webp"
+  },
+  {
+    "id": 12,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage12.webp"
   }
 ]
