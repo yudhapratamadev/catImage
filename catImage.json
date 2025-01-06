@@ -1,11 +1,21 @@
 [
   {
     "id": 1,
-    "title": "Beautiful Landscape",
+    "title": "catwall",
     "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage1.webp"
   },
   {
     "id": 2,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage2.webp"
+  },
+  {
+    "id": 3,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage1.webp"
+  },
+  {
+    "id": 4,
     "title": "Ocean View",
     "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/catImage/refs/heads/main/catimage2.webp"
   }
