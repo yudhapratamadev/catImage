@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://example.com/landscape.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Ocean View",
+    "imageUrl": "https://example.com/ocean.jpg"
+  }
+]
